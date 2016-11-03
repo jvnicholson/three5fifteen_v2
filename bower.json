@@ -1,0 +1,21 @@
+{
+  "name": "three5fifteen",
+  "homepage": "https://github.com/jvnicholson/three5fifteen",
+  "authors": [
+    "Josh Nicholson <joshuavnicholson@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.8"
+  }
+}
